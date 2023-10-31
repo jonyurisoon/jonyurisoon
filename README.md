@@ -1,10 +1,6 @@
 ![gif!](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cf06a29-04a0-4466-9f83-ab6b9658149f/dga1hon-e847f7f4-d043-401b-8a12-835610161118.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjZjA2YTI5LTA0YTAtNDQ2Ni05ZjgzLWFiNmI5NjU4MTQ5ZlwvZGdhMWhvbi1lODQ3ZjdmNC1kMDQzLTQwMWItOGExMi04MzU2MTAxNjExMTguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dPjaf8ceKRmqUmsHUbfHP0GdV8WmwuFzTjeO3TP7KD8)
-<br>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=40&duration=3000&pause=2000&color=F70000&random=false&width=500&height=100&lines=Hello%2C+I'm+Yuri!;Welcome+to+my+Github!" alt="Typing SVG"/></a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonyurisoon&label=Profile%20views&color=0e75b6&style=flat" alt="jonyurisoon" /> </p>
-
 
 <h2 align="left">🌐 Connect with me:</h2>
 <p align="left">
